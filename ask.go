@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/AlecAivazis/survey"
+	"github.com/AlecAivazis/survey/v2"
 	"os"
   "io/ioutil"
 )
